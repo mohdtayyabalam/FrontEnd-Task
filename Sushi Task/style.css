@@ -12,7 +12,7 @@
   /* border: 2px solid red; */
   /* height: auto;
   width: auto; */
-  background-image: url(bg.png);
+  background-image: url(Assests/bg.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -199,7 +199,7 @@
   width: 150px;
   /* border: 2px solid; */
   border-radius: 50%;
-  background-image: url(section2\ img1.jpg);
+  background-image: url(Assests/section2\ img1.jpg);
   background-size: cover;
 }
 
@@ -261,7 +261,7 @@
   width: 500px;
   /* border: 2px solid; */
   border-radius: 50%;
-  background-image: url(section3\ img.webp);
+  background-image: url(Assests/section3\ img.webp);
   background-size: cover;
 }
 
@@ -513,7 +513,7 @@
   width: 500px;
   /* border: 2px solid; */
   border-radius: 50%;
-  background-image: url(section5\ img1.jpg);
+  background-image: url(Assests/section5\ img1.jpg);
   background-size: cover;
   background-position: center;
   padding-right: 20px;
@@ -545,7 +545,7 @@
   flex-direction: column;
   gap: 30px;
   padding: 90px 0;
-  background-image: url(section6\ bg.png);
+  background-image: url(Assests/section6\ bg.png);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -565,7 +565,7 @@
   border-radius: 50%;
   padding-top: 50px;
   z-index: 1;
-  background-image: url(section6\ circle.jpg);
+  background-image: url(Assests/section6\ circle.jpg);
   background-position: center;
   background-size: cover;
 }
